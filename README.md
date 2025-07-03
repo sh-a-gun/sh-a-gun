@@ -44,7 +44,7 @@
 ### 🌟 Projects I’ve Built
 
 <p align="left">
-  <img src="https://media.giphy.com/media/l41lF4b3E5Z3GVpFC/giphy.gif" width="200" align="right"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right" alt="Cat coding gif"/>
 </p>
 
 - 🎮 [Rock Paper Scissors Game](https://yourusername.github.io/rock-paper-scissors/)  
