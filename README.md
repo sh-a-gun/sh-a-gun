@@ -12,11 +12,11 @@
 
 ### 💫 About Me
 
-- ✨ Crafting clean UIs with React, Tailwind, and a sprinkle of creativity  
-- 💡 Believer in "Learn by building" – always working on side projects  
-- 🛠️ Currently learning backend (slow & strong)  
-- 📣 I also anchor college events — mic in hand, heart on stage 🎤  
-- 🚀 Open to internships, collaborations, and creative challenges!
+- 🎓 **Branch:** Mathematics & Scientific Computing  
+- ⚛️ Currently working with **React**, **JavaScript**, and **Tailwind CSS**  
+- 🌱 Slowly diving into **backend** to become a full-stack force  
+- 🎙️ Passionate about **public speaking & anchoring** events  
+- 💌 Open to internships, collaborations, or just a good tech conversation!
 
 > *“Code is poetry when logic meets design.”*
 
@@ -66,9 +66,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Typing Girl Gif"/>
+  <img src="https://media.giphy.com/media/l41lF4b3E5Z3GVpFC/giphy.gif" width="280" alt="Cute bear coding gif" />
 </p>
 
 <p align="center">
-  ✨ Thanks for stopping by! Let’s build something amazing together 💻💡
+  ✨ Thanks for stopping by! Let’s build something amazing together 💻💖
 </p>
