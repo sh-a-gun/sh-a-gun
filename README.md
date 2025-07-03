@@ -44,7 +44,7 @@
 ### 🌟 Projects I’ve Built
 
 <p align="left">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="200" align="right"/>
+  <img src="https://media.giphy.com/media/l41lF4b3E5Z3GVpFC/giphy.gif" width="200" align="right"/>
 </p>
 
 - 🎮 [Rock Paper Scissors Game](https://yourusername.github.io/rock-paper-scissors/)  
@@ -53,7 +53,7 @@
   _Add, check, delete tasks — and keep your day productive!_  
 - 🧮 [Calculator](https://yourusername.github.io/calculator/)  
   _A clean, responsive calculator for all your math needs._
-
+  
 ---
 
 ### 📫 Let's Connect!
@@ -66,7 +66,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lF4b3E5Z3GVpFC/giphy.gif" width="280" alt="Cute bear coding gif" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Typing Girl Gif"/>
 </p>
 
 <p align="center">
