@@ -43,10 +43,6 @@
 
 ### 🌟 Projects I’ve Built
 
-<p align="left">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right" alt="Cat coding gif"/>
-</p>
-
 - 🎮 [Rock Paper Scissors Game](https://yourusername.github.io/rock-paper-scissors/)  
   _A fun, interactive browser game using JavaScript DOM magic._  
 - ✅ [To-Do List App](https://yourusername.github.io/to-do-list/)  
