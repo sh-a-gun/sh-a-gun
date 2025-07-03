@@ -6,10 +6,15 @@
 💻 Frontend Developer | React & JavaScript enthusiast  
 🚀 Exploring Web Development & Open Source  
 
-## 🔧 Skills
-- *Languages*: HTML, CSS, JavaScript, C++
-- *Frontend*: React.js, Tailwind CSS
-- *Tools*: Git, GitHub, VS Code
+## 🛠️ Skills
+Languages:
+💻 C++  |  🐍 Python  |  ✨ JavaScript
+
+Frontend Development:
+🌐 HTML  |  🎨 CSS  |  ⚛️ React  |  🌬️ Tailwind CSS
+
+Tools & Platforms:
+🛠️ VS Code  |  🔧 Git  |  🐙 GitHub
 
 ## 📌 Projects
 - 🔗 [Rock Paper Scissors Game](https://yourusername.github.io/rock-paper-scissors/)
