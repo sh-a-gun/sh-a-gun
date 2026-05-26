@@ -41,16 +41,6 @@
 
 ---
 
-### 🌟 Projects I’ve Built
-
-- 🎮 [Rock Paper Scissors Game](https://yourusername.github.io/rock-paper-scissors/)  
-  _A fun, interactive browser game using JavaScript DOM magic._  
-- ✅ [To-Do List App](https://yourusername.github.io/to-do-list/)  
-  _Add, check, delete tasks — and keep your day productive!_  
-- 🧮 [Calculator](https://yourusername.github.io/calculator/)  
-  _A clean, responsive calculator for all your math needs._
-  
----
 
 ### 📫 Let's Connect!
 
