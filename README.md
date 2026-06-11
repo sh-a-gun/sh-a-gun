@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I’m Shagun</h1>
 
 <p align="center">
-  🎓 B.Tech student @ NIT Hamirpur &nbsp;|&nbsp; 💻 Frontend Dev & React Enthusiast &nbsp;|&nbsp; 🌱 Learning & Building  
+  🎓 B.Tech student @ NIT Hamirpur &nbsp;|&nbsp; 💻 Full-Stack Dev & AI/ML Enthusiast &nbsp;|&nbsp; 🌱 Learning & Building  
 </p>
 
 ---
@@ -13,8 +13,8 @@
 ### 💫 About Me
 
 - 🎓 **Branch:** Mathematics & Scientific Computing  
-- ⚛️ Currently working with **React**, **JavaScript**, and **Tailwind CSS**  
-- 🌱 Slowly diving into **backend** to become a full-stack force  
+- ⚛️ Currently working with **MERN**  
+- 🌱 Slowly diving into **AI/ML** to become a full-coding-force  
 - 🎙️ Passionate about **public speaking & anchoring** events  
 - 💌 Open to internships, collaborations, or just a good tech conversation!
 
