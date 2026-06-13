@@ -12,7 +12,7 @@
 
 ### 💫 About Me
 
-- 🎓 **Branch:** Mathematics & Scientific Computing  
+- 🎓 **Specialise in:** Mathematics & Scientific Computing  
 - ⚛️ Currently working with **MERN**  
 - 🌱 Slowly diving into **AI/ML** to become a full-coding-force  
 - 🎙️ Passionate about **public speaking & anchoring** events  
