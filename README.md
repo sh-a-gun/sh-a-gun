@@ -15,7 +15,7 @@
 - 🎓 Specialisation: **Mathematics & Computing**  
 - ⚛️ Currently working with **MERN**  
 - 🌱 Slowly diving into **AI/ML** to become a full-coding-force  
-- 🎙️ Passionate about **public speaking & anchoring** events  
+- 🎙️ Passionate about **public speaking & anchoring**   
 - 💌 Open to internships, collaborations, or just a good tech conversation!
 
 > *“Code is poetry when logic meets design.”*
